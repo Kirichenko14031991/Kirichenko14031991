@@ -8,3 +8,4 @@
 Kirichenko14031991/Kirichenko14031991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![b_i](https://github.com/Kirichenko14031991/Kirichenko14031991/assets/124730976/433c34c7-59be-432d-ae2a-165a97fde754)
